@@ -17,3 +17,6 @@ Data centers face high energy costs, cooling inefficiencies, and ESG compliance 
 - Lower energy costs
 - Sustainable resilience
 - Transparent ESG compliance
+
+## Project Artifacts
+Full Report (PDF): https://github.com/krithikaamadhumitha/DataCenterSustainability/blob/main/Data%20Center%20Sustainability.pdf
